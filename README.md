@@ -37,8 +37,8 @@ Ongoing study modules, technical projects, and daily language immersion initiati
 
 Planned examinations and technical milestones to establish a robust foundation prior to starting the *Ausbildung* in August 2027:
 
-- [🟡] **Complementary introductory and short technical courses**
-- [🟡] **Google AI Professional Certificate**
+- [ ] **Complementary introductory and short technical courses**
+- [ ] **Google AI Professional Certificate**
 - [ ] **Google IT Support Professional Certificate**
 - [ ] **English for IT – Basics (Cisco Networking Academy, A2-B1)**
 - [ ] **CompTIA A+ (Core 1 & Core 2)** — *Hardware, Operating Systems, Maintenance, and IT Support*
