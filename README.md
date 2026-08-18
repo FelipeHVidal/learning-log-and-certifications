@@ -14,8 +14,7 @@ The following table contains my verified credentials, digital badges, and comple
 
 | Course / Credential Name | Issuing Organization | Status / Verification |
 | :--- | :--- | :---: |
-| ✅ **ZAB recognition Bachelor's degree Chile** _(ZAB anerkennung Bachelor Abschluss Chile)_ - Polizeioffizier für Ordnung und Sicherheit,
-Verwalter der öffentlichen Sicherheit | Zentralstelle für ausländisches Bildungswesen (ZAB) | [Certificate] |
+| ✅ **ZAB recognition Bachelor's degree Chile** _(ZAB anerkennung Bachelor Abschluss Chile)_ - Polizeioffizier für Ordnung und Sicherheit, Verwalter der öffentlichen Sicherheit | Zentralstelle für ausländisches Bildungswesen (ZAB) | [Certificate] |
 | ✅ **Leben in Deutschland** | Bundesamt für Migration und Flüchtlinge (BAMF) | [Certificate] |
 | ✅ **Deutsch-Test für den Beruf B2** | Bundesamt für Migration und Flüchtlinge (BAMF) | [Certificate] |
 | ✅ **Python for Beginners** | SoloLearn | [Certificate](https://www.sololearn.com/certificates/CT-5YFWLJNN) |
