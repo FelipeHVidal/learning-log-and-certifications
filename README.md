@@ -14,7 +14,7 @@ The following table contains my verified credentials, digital badges, and comple
 
 | Course / Credential Name | Issuing Organization | Status / Verification |
 | :--- | :--- | :---: |
-| ✅ **ZAB recognition Bachelor's degree Chile** _(ZAB anerkennung Bachelor Abschluss Chile)_ | ZAB | [Certificate] |
+| ✅ **ZAB recognition Bachelor's degree Chile** _(ZAB anerkennung Bachelor Abschluss Chile)_ | Zentralstelle für ausländisches Bildungswesen | [Certificate] |
 | ✅ **Leben in Deutschland** | BAMF | [Certificate] |
 | ✅ **Deutsch-Test für den Beruf B2** | BAMF | [Certificate] |
 | ✅ **Python for Beginners** | SoloLearn | [Certificate](https://www.sololearn.com/certificates/CT-5YFWLJNN) |
