@@ -18,7 +18,7 @@ The following table contains my verified credentials, digital badges, and comple
 | ✅ **Deutsch-Test für den Beruf B2** | BAMF | [Certificate] |
 | ✅ **Python for Beginners** | SoloLearn | [Certificate](https://www.sololearn.com/certificates/CT-5YFWLJNN) |
 | ✅ **Computer Hardware Basics** | Cisco Networking Academy | [Badge](https://www.credly.com/badges/0131d01c-59ea-4cfc-9ec3-0145c57755d8) |
-| ✅ **AI Fundamentals (Course 1 of Professional Cert.)** | Google (Coursera) | [Certificate](https://coursera.org/share/41f06a1131f2f127623d571497a29692) [Badge](https://www.credly.com/badges/55e358a6-60ca-4747-80a5-504d05d6c2f2/public_url)|
+| ✅ **AI Fundamentals (Course 1 of Professional Cert.)** | Google (Coursera) | [Certificate](https://coursera.org/share/41f06a1131f2f127623d571497a29692) / [Badge](https://www.credly.com/badges/55e358a6-60ca-4747-80a5-504d05d6c2f2/public_url)|
 
 ---
 
