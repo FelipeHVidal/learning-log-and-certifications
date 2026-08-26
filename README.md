@@ -26,6 +26,7 @@ The following table contains my verified credentials, digital badges, and comple
 | ✅ **AI for Content Creation (Course 5 of Professional Cert.)** | Google (Coursera) | [Certificate](https://coursera.org/share/679c54ae1bcb6ccd98c2704958b1cf71) / [Badge](https://www.credly.com/badges/c209e09a-c62e-4ccc-9793-52c0e74af9e4/public_url)|
 | ✅ **AI for Data Analysis (Course 6 of Professional Cert.)** | Google (Coursera) | [Certificate](https://coursera.org/share/3da50a1ae1495061e282815d2096ca4e) / [Badge](https://www.credly.com/badges/8dd28361-1642-43a6-b795-38eb32965108/public_url)|
 | ✅ **AI for App Building (Course 7 of Professional Cert.)** | Google (Coursera) | [Certificate](https://coursera.org/share/0e3014e4650c014f48cf822201546155) / [Badge](https://www.credly.com/badges/8c60add0-94af-4e53-9419-1f915daaea9a/public_url)|
+| ✅ **AI for App Deployment (Course 8 of Professional Cert.)** | Google (Coursera) | [Certificate](https://coursera.org/share/ed47ce413067e29b124f3610a3df893c) / [Badge](https://www.credly.com/badges/635d7d56-e398-4099-bdd8-430e8e69e807/public_url)|
 
 ---
 
