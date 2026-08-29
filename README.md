@@ -34,6 +34,7 @@ The following table contains my verified credentials, digital badges, and comple
 
 ---
 
+
 ## 🔄 Active Studies & Daily Professional Development
 
 Ongoing study modules, technical projects, and daily language immersion initiatives:
@@ -43,6 +44,7 @@ Focus: Practical applications of Artificial Intelligence for process automation,
 Focus: Daily dedicated study to refine and adapt my certified B2 level toward German technical terminology in IT infrastructure, networking, operating systems, and corporate documentation. I utilize German grammar and IT textbooks, Anki for spaced repetition, and Gemini Notebooks for custom quizzes and practical exercises.
 🟡 Technical English Immersion & Comprehension:
 Focus: Direct reading of industry literature (currently reading The Innovators by Walter Isaacson) and daily consumption of audio resources in English focused on technology during routine daily activities.
+
 
 ---
 
