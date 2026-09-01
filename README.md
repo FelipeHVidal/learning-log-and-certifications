@@ -32,6 +32,7 @@ Verified industry credentials, digital badges, and technical specialization trac
 | ✅ **Computer Hardware Basics** | Cisco Networking Academy | [Badge](https://www.credly.com/badges/0131d01c-59ea-4cfc-9ec3-0145c57755d8) |
 | ✅ **Python for Beginners** | SoloLearn | [Certificate](https://www.sololearn.com/certificates/CT-5YFWLJNN) |
 | ✅ **Learning How to Learn: Powerful mental tools to help you master tough subjects** | Deep Teaching Solutions | [Certificate](https://coursera.org/share/feab58cb2616762e87cf6c2ba536738a) |
+| ✅ **VSCode for Developers: Set up a professional environment** | Coursera | [Certificate](https://coursera.org/share/901632535def4e6c27906a1b403f7fc6) |
 
 ---
 
